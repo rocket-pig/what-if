@@ -29,3 +29,6 @@ or start wars over which spinny pattern is the best
 
 oh and PS: there's at least one easter-egg pattern i didnt mention ;)
 
+#### shouldn't need any help running it, but if so:
+it requires `pygame` and thats literally it.
+`pip3 install pygame`
