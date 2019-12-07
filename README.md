@@ -1,7 +1,6 @@
 # what-if
-![demo.gif][logo]
 
-[logo]: http://navdot.tk/demo.gif "demo.gif"
+Watch a demo at: http://navdot.tk/demo.gif it's the gif playing slowly, not the game, give it a sec and read on:
 
 #### This came out of this idea:
 """what about... making a 'broadcast' simulation: there is a single source of the signal to change animation, highlighted in diff color. all nodes have as part of their class a spot to store current animation. all nodes can only 'hear' message from a specified distance. upon hearing, they are capable of broadcasting.  the broadcast range could be so close that theyd essentially have to 'touch' to comm. !:) i like it"""
