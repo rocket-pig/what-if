@@ -9,7 +9,9 @@ _what about... making a 'broadcast' simulation: there is a single source of the 
 #### And furthermore:
 
 ...The story always begins with an idea in a single marble's head. (Preach)
+
 `(You can select which one by clicking with mouse)`
+
 The Master Marble has one of four possible thoughts in it's head. This is selected by
 pressing first letter of pattern:
 
