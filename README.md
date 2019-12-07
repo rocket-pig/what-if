@@ -1,0 +1,2 @@
+# what-if
+spoiler, the results are so cool-looking. """what about... making a 'broadcast' simulation: there is a single source of the signal to change animation, highlighted in diff color. all nodes have as part of their class a spot to store current animation. all nodes can only 'hear' message from a specified distance. upon hearing, they are capable of broadcasting.  the broadcast range could be so close that theyd essentially have to 'touch' to comm. !:) i like it"""
